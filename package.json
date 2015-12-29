@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-anything": "./node_modules/test-anything/test-anything.js"
+    "test-anything": "./node_modules/test-anything/test-anything.js",
+    "javascripting": "./node_modules/javascripting/bin/javascripting"
   },
   "author": "",
   "license": "ISC",
