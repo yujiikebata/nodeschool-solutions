@@ -1,0 +1,26 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-anything": "./node_modules/test-anything/test-anything.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify-adventure": "^1.7.4",
+    "count-to-6": "^0.7.0",
+    "esnext-generation": "^2.1.0",
+    "javascripting": "^2.4.0",
+    "learn-generators": "^1.5.1",
+    "learn-sass": "^1.1.0",
+    "learnyoureact": "^0.10.8",
+    "perfschool": "^1.0.3",
+    "planetproto": "^0.7.0",
+    "promise-it-wont-hurt": "^0.1.0",
+    "test-anything": "^1.1.5",
+    "thinking-in-react": "^3.0.0",
+    "tower-of-babel": "^0.8.0"
+  }
+}
