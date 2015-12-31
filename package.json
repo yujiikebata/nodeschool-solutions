@@ -1,16 +1,18 @@
 {
   "name": "nodeschool",
   "version": "1.0.0",
-  "description": "",
+  "description": "solutions for nodeschool",
   "main": "index.js",
   "scripts": {
     "test-anything": "./node_modules/test-anything/test-anything.js",
     "javascripting": "./node_modules/javascripting/bin/javascripting",
-    "tower-of-babel": "./node_modules/tower-of-babel/tower-of-babel.js"
+    "tower-of-babel": "./node_modules/tower-of-babel/tower-of-babel.js",
+    "babel-node": "./node_modules/babel-cli/bin/babel-node.js"
   },
-  "author": "",
+  "author": "yujiikebata",
   "license": "ISC",
   "devDependencies": {
+    "babel-cli": "^6.3.17",
     "browserify-adventure": "^1.7.4",
     "count-to-6": "^0.7.0",
     "esnext-generation": "^2.1.0",
