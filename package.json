@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test-anything": "./node_modules/test-anything/test-anything.js",
-    "javascripting": "./node_modules/javascripting/bin/javascripting"
+    "javascripting": "./node_modules/javascripting/bin/javascripting",
+    "tower-of-babel": "./node_modules/tower-of-babel/tower-of-babel.js"
   },
   "author": "",
   "license": "ISC",
