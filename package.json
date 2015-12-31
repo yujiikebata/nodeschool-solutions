@@ -8,7 +8,8 @@
     "javascripting": "./node_modules/javascripting/bin/javascripting",
     "tower-of-babel": "./node_modules/tower-of-babel/tower-of-babel.js",
     "babel-node": "./node_modules/babel-cli/bin/babel-node.js",
-    "esnext-generation": "./node_modules/esnext-generation/cli.js"
+    "esnext-generation": "./node_modules/esnext-generation/cli.js",
+    "learnyounode": "./node_modules/learnyounode/bin/learnyounode"
   },
   "author": "yujiikebata",
   "license": "ISC",
@@ -20,6 +21,7 @@
     "javascripting": "^2.4.0",
     "learn-generators": "^1.5.1",
     "learn-sass": "^1.1.0",
+    "learnyounode": "^3.2.0",
     "learnyoureact": "^0.10.8",
     "perfschool": "^1.0.3",
     "planetproto": "^0.7.0",
