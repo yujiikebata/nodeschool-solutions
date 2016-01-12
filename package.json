@@ -9,7 +9,8 @@
     "tower-of-babel": "./node_modules/tower-of-babel/tower-of-babel.js",
     "babel-node": "./node_modules/babel-cli/bin/babel-node.js",
     "esnext-generation": "./node_modules/esnext-generation/cli.js",
-    "learnyounode": "./node_modules/learnyounode/bin/learnyounode"
+    "learnyounode": "./node_modules/learnyounode/bin/learnyounode",
+    "how-to-npm": "./node_modules/how-to-npm/index.js"
   },
   "author": "yujiikebata",
   "license": "ISC",
@@ -18,6 +19,7 @@
     "browserify-adventure": "^1.7.4",
     "count-to-6": "^0.7.0",
     "esnext-generation": "^2.1.0",
+    "how-to-npm": "^2.0.0",
     "javascripting": "^2.4.0",
     "learn-generators": "^1.5.1",
     "learn-sass": "^1.1.0",
