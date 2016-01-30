@@ -10,7 +10,8 @@
     "babel-node": "./node_modules/babel-cli/bin/babel-node.js",
     "esnext-generation": "./node_modules/esnext-generation/cli.js",
     "learnyounode": "./node_modules/learnyounode/bin/learnyounode",
-    "how-to-npm": "./node_modules/how-to-npm/index.js"
+    "how-to-npm": "./node_modules/how-to-npm/index.js",
+    "count-to-6": "./node_modules/count-to-6/lib/count-to-6.js"
   },
   "author": "yujiikebata",
   "license": "ISC",
