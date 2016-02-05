@@ -4,14 +4,14 @@
   "description": "solutions for nodeschool",
   "main": "index.js",
   "scripts": {
-    "test-anything": "./node_modules/test-anything/test-anything.js",
-    "javascripting": "./node_modules/javascripting/bin/javascripting",
-    "tower-of-babel": "./node_modules/tower-of-babel/tower-of-babel.js",
-    "babel-node": "./node_modules/babel-cli/bin/babel-node.js",
-    "esnext-generation": "./node_modules/esnext-generation/cli.js",
-    "learnyounode": "./node_modules/learnyounode/bin/learnyounode",
-    "how-to-npm": "./node_modules/how-to-npm/index.js",
-    "count-to-6": "./node_modules/count-to-6/lib/count-to-6.js"
+    "test-anything": "test-anything",
+    "javascripting": "javascripting",
+    "tower-of-babel": "tower-of-babel",
+    "babel-node": "babel-cli",
+    "esnext-generation": "esnext-generation",
+    "learnyounode": "learnyounode",
+    "how-to-npm": "how-to-npm",
+    "count-to-6": "count-to-6"
   },
   "author": "yujiikebata",
   "license": "ISC",
