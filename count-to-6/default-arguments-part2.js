@@ -1,0 +1,1 @@
+module.exports = (string, exclamationNum = string.length) => string + '!'.repeat(exclamationNum);
